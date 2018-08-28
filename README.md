@@ -1,7 +1,6 @@
 # _Unicorns are real_
 
-Uma página web **fabulosa** contando a origem, os mitos e a verdade sobre os
-unicórnios.
+Uma página web **fabulosa** contando a origem, os mitos e a verdade sobre os unicórnios.
 
 ![](docs/holy-crap-i-look-fabulous.jpg)
 
