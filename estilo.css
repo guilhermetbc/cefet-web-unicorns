@@ -63,12 +63,16 @@ h3{
 	margin-left: 20px;
 }
 
-#musica p:nth-child(odd){
+#musica>p:nth-child(odd){
 	margin-left: 34px;
 }
 
 .destacado{
 	background-color: #c4caf3;
 	color: #004a79;
-	padding: 10px;
+	padding: 10px 0px;
+}
+
+#musica .destacado p:nth-child(even){
+	margin-left: 34px;
 }
