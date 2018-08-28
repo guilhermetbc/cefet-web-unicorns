@@ -59,8 +59,8 @@ h3{
 	height: 112px;
 }
 
-#musica{
-	padding: 20px;
+#musica h2, #musica p{
+	margin-left: 20px;
 }
 
 #musica p:nth-child(odd){
@@ -70,4 +70,5 @@ h3{
 .destacado{
 	background-color: #c4caf3;
 	color: #004a79;
+	padding: 10px;
 }
